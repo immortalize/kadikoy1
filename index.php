@@ -1,3 +1,5 @@
 <?php
-echo "hocam ara verelim mi ?";
+
+echo "Merhaba Dünya";
+
 ?>
